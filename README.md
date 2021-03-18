@@ -1,24 +1,24 @@
 # Intro to Git & Github
 
 ## Table of Contents
-* [Introduction](#introduction)
-* [Git and Github Setup](#git-and-github-setup)
-* [What is Git?](#what-is-git)
-* [What is Github?](#what-is-github)
-* [Command Line](#command-line)
-* [Git Commands](#git-commands)
-* [Practice and Contribute](#practice-and-contribute)
+* 👋🏾 [Introduction](#introduction)
+* 🤔 [What is Git?](#what-is-git)
+* 🧐 [What is Github?](#what-is-github)
+* 🛠 [Git and Github Setup](#git-and-github-setup)
+* 👩🏾‍💻 [Command Line](#command-line)
+* 🦄 [Git Commands](#git-commands)
+* 🥳 [Practice and Contribute](#practice-and-contribute)
 
-## Introduction
+## 👋🏾 Introduction
 
-## Git and Github Setup
+## 🤔 What is Git?
 
-## What is Git?
+## 🧐 What is Github?
 
-## What is Github?
+## 🛠 Git and Github Setup
 
-## Command Line
+## 👩🏾‍💻 Command Line
 
-## Git Commands
+## 🦄 Git Commands
 
-## Practice and Contribute
+## 🥳 Practice and Contribute
