@@ -17,13 +17,14 @@ This is supporting documentation for an Intro to Git & Github Workshop. You will
 ## 🤔 What is Git?
 <img src="imgs/hearding-cats.gif" alt="Gif of someone attempting to heard a bunch of kittens and failing" width="500">
 
-Git is a version control system used to track and manage changes made to files. This tool allows teams to work more efficently together and avoid mistakes that might arise from conflicting code, bugs and so on. Git helps engineers track:
-* **What** has been changed
-* **Who** has changed it
-* **When** it was changed 
-* **Revert** to previous versions if a bug is found
+Git is a version control system used to track and manage changes made to files. This tool allows teams to work more efficently together and avoid mistakes that might arise from conflicting code, bugs and so on. Benefits of using version control include:
 
-* Further Reading:
+* Ability to track **what** code has been changed
+* Ability to see **who** has changed it
+* Ability to see **when** it was changed 
+* And the option to revert to previous versions if needed
+
+Further Reading:
   * [What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
   * [Github Git Guide](https://github.com/git-guides/)
 
@@ -38,7 +39,7 @@ Github is a website where you can host code, collaborate with others and utilize
 
 Alternatives: [Gitlab](https://about.gitlab.com/) & [Bitbucket](https://bitbucket.org/product)
 
-* Further Reading:
+Further Reading:
   * [Github Git Guide](https://github.com/git-guides/)
 
 ## 🛠 Git and Github Setup
@@ -103,7 +104,7 @@ Can add individual files
 ![Screenshot of terminal running git commit command](imgs/git-commit.png)
 ### Git Commit
 ```git commit``` saves a snapshot of your entire project. You run the command with the `-m` flag to include a message. This message will typically explain what was changed in the code. Here is an example of what running ```git commit``` could look like: ```git commit -m “your commit message here”```. You should commit often!
-* Further Reading:
+Further Reading:
   * [BitBucket Git Commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)
   * [GitHub Git Commit Guide](https://github.com/git-guides/git-commit)
   * [Official Git Documentation](https://git-scm.com/docs/git-commit)
