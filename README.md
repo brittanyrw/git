@@ -84,11 +84,15 @@ Initializes Git
 * Tells Git to start tracking your files
 * Run inside of a directory (folder). Any changes you make in that folder will then be tracked by Git.
 
+Further Reading:
+  * [Bit Bucket Git Init Guide](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init)
+  * [GitHub Git Init Guide](https://github.com/git-guides/git-init)
+  
 ***
 
 ![Screenshot of terminal running git status command](imgs/git-status.png)
 ### Git Status
-Outputs the status of your files
+Outputs the status of your files. This is a command that is used very often.
 
 Some information git status can give you includes: 
 * What branch you are on
@@ -96,21 +100,29 @@ Some information git status can give you includes:
 * Which files have been altered
 * What the status is of your local branch vs the remote branch
 
+Further Reading:
+  * [Bit Bucket Git Status Guide](https://www.atlassian.com/git/tutorials/inspecting-a-repository)
+  * [GitHub Git Status Guide](https://github.com/git-guides/git-status)
+  
 ***
 
 ![Screenshot of terminal running git add command](imgs/git-add.png)
 ### Git Add
-Tells Git which files to add to the staging area
-* Can add all files
-* Can add individual files
+Tells Git which files to add to the staging area before comitting.
+* Can add all files: ```git add .```
+* Can add individual files: ```git add index.html main.css```
 
+Further Reading:
+  * [BitBucket Git Add Guide](https://www.atlassian.com/git/tutorials/saving-changes)
+  * [GitHub Git Add Guide](https://github.com/git-guides/git-add)
+  
 ***
 
 ![Screenshot of terminal running git commit command](imgs/git-commit.png)
 ### Git Commit
 ```git commit``` saves a snapshot of your entire project. You run the command with the `-m` flag to include a message. This message will typically explain what was changed in the code. Here is an example of what running ```git commit``` could look like: ```git commit -m “your commit message here”```. You should commit often!
 Further Reading:
-  * [BitBucket Git Commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)
+  * [BitBucket Git Commit Guide](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)
   * [GitHub Git Commit Guide](https://github.com/git-guides/git-commit)
   * [Official Git Documentation](https://git-scm.com/docs/git-commit)
 
@@ -119,6 +131,10 @@ Further Reading:
 ### Git Push
 ![Screenshot of terminal running git push command](imgs/git-push.png)
 Sends code from your local branch to your remote branch. In this case, it is sending to GitHub.
+
+Further Reading:
+  * [BitBucket Git Push Cuide](https://www.atlassian.com/git/tutorials/syncing/git-push)
+  * [GitHub Git Push Guide](https://github.com/git-guides/git-push)
 
 ## Additional Commands
 For a list additional commands you should learn check out this [GitHub Git Command Cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf).
