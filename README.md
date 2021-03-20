@@ -135,7 +135,6 @@ Further Reading:
 Further Reading:
   * [BitBucket Git Commit Guide](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)
   * [GitHub Git Commit Guide](https://github.com/git-guides/git-commit)
-  * [Official Git Documentation](https://git-scm.com/docs/git-commit)
 
 ***
 
@@ -157,6 +156,7 @@ For a list additional commands you should learn check out this [GitHub Git Comma
 - [How to Use Git - A Reference Guide](https://dev.to/digitalocean/how-to-use-git-a-reference-guide-6b6): Extensive cheat sheet, explanations and resources for using Git
 - [Dangit, git!](https://dangitgit.com/): A list of common git commands used to undo changes.
 - [Connecting to GitHub with SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+- [Official Git Documentation](https://git-scm.com/docs/)
 
 ## 🥳 Practice and Contribute
 Alright, so you now know the basics of using Git and Github. What's next? To become more comfortable using the command line, Git and Github you're going to need to practice. Below is a list of a few suggestions for how to practice on your own and a list of open source projects that have extensive contribution documentation that makes it easier for beginners to contribute. 
