@@ -164,7 +164,7 @@ Alright, so you now know the basics of using Git and Github. What's next? To bec
 ## How to Practice
 ![Gif of Blossom from Powerpuff Girls flying](imgs/blossom-go.gif)
 - Personal Projects
-- 100 Days of Code
+- [100 Days of Code](https://www.100daysofcode.com/)
 - Coding Challenges like [Codepen Challenges](https://codepen.io/challenges)
 - Follow people on Github 👀
 
