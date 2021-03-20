@@ -1,18 +1,18 @@
-# Intro to Git & Github - Presentation Here: https://github.com/brittanyrw/git/
+# Intro to Git & GitHub - Presentation Here: https://github.com/brittanyrw/git/
 
-![Intro to Git and Github Header](imgs/header.png)
+![Intro to Git and GitHub Header](imgs/header.png)
 
 ## Table of Contents
 * 👋🏾 [Introduction](#introduction)
 * 🤔 [What is Git?](#what-is-git)
-* 🧐 [What is Github?](#what-is-github)
-* 🛠 [Git and Github Setup](#git-and-github-setup)
+* 🧐 [What is GitHub?](#what-is-github)
+* 🛠 [Git and GitHub Setup](#git-and-github-setup)
 * 👩🏾‍💻 [Command Line](#command-line)
 * 🦄 [Git Commands](#git-commands)
 * 🥳 [Practice and Contribute](#practice-and-contribute)
 
 ## 👋🏾 Introduction
-This is supporting documentation for an Intro to Git & Github Workshop. You will learn about Git and Github, some of the most popular version control tools. We will cover the command line, commonly used Git commands, what open source is and how you can utilize Git and Github to manage your own projects and to collaborate with others. 
+This is supporting documentation for an Intro to Git & GitHub Workshop. You will learn about Git and GitHub, some of the most popular version control tools. We will cover the command line, commonly used Git commands, what open source is and how you can utilize Git and GitHub to manage your own projects and to collaborate with others. 
 
 ## 🤔 What is Git?
 <img src="imgs/hearding-cats.gif" alt="Gif of someone attempting to heard a bunch of kittens and failing" width="500">
@@ -26,26 +26,28 @@ Git is a version control system used to track and manage changes made to files. 
 
 Further Reading:
   * [What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
-  * [Github Git Guide](https://github.com/git-guides/)
+  * [GitHub Git Guide](https://github.com/git-guides/)
 
-## 🧐 What is Github?
-![Github Octocats](imgs/github-header.png)
+## 🧐 What is GitHub?
+![GitHub Octocats](imgs/github-header.png)
 
-Github is a website where you can host code, collaborate with others and utilize Git version control tools. **Note:** Very important to remember that ```Git``` and ```Github``` are two different things. Some features of Github include: 
-* Collaboration (open-source)
-* Storage 
-* Hosting
-* Management 
+GitHub is a website where you can host code, collaborate with others and utilize Git version control tools. **Note:** Very important to remember that ```Git``` and ```GitHub``` are two different things. Some features of GitHub include: 
+* Collaboration (open-source): View other people's code and collaborate on projects.
+* Storage: Upload your code to store it remotely vs just on your local machine.
+* Hosting: Deploy websites with the option of custom domains
+* Management: Automation, manage to do lists (Projects), create Wikis, team organization  
+* And much more
 
 Alternatives: [Gitlab](https://about.gitlab.com/) & [Bitbucket](https://bitbucket.org/product)
 
 Further Reading:
-  * [Github Git Guide](https://github.com/git-guides/)
+  * [GitHub Git Guide](https://github.com/git-guides/)
+  * [Features of GitHub](https://github.com/features)
 
-## 🛠 Git and Github Setup
-Below are instructions for how to set up Git and Github on your computer.
+## 🛠 Git and GitHub Setup
+Below are instructions for how to set up Git and GitHub on your computer.
 
-* Create an account on Github - https://github.com/join
+* Create an account on GitHub - https://github.com/join
 * Download and install Git - https://git-scm.com/downloads
   * For Macs: if you do not already have homebrew installed and are not familiar with using the command line, you can use the Binary installer.
 * Download a Text Editor. A text editor is a program that you use to modify and write code. If you do not already have a text edtior, here are some suggestions: 
@@ -78,26 +80,29 @@ We're going to briefly go over just a few of the most commonly used Git commands
 ![Screenshot of terminal running git init command](imgs/git-init.png)
 ### Git Init
 Initializes Git
-Tells Git to start tracking your files
-Run inside of a directory (folder)
+
+* Tells Git to start tracking your files
+* Run inside of a directory (folder). Any changes you make in that folder will then be tracked by Git.
 
 ***
 
 ![Screenshot of terminal running git status command](imgs/git-status.png)
 ### Git Status
 Outputs the status of your files
-What branch you are on
-Which files are being tracked
-Which files have been altered
-Local branch vs remote branch
+
+Some information git status can give you includes: 
+* What branch you are on
+* Which files are being tracked
+* Which files have been altered
+* What the status is of your local branch vs the remote branch
 
 ***
 
 ![Screenshot of terminal running git add command](imgs/git-add.png)
 ### Git Add
 Tells Git which files to add to the staging area
-Can add all files
-Can add individual files
+* Can add all files
+* Can add individual files
 
 ***
 
@@ -113,13 +118,12 @@ Further Reading:
 
 ### Git Push
 ![Screenshot of terminal running git push command](imgs/git-push.png)
-Sends code from your local branch to your remote branch. In this case, it is sending to Github.
+Sends code from your local branch to your remote branch. In this case, it is sending to GitHub.
 
 ## Additional Commands
-Other commands you should start to learn include: ```git clone```, ```git checkout```, ```git pull```, ```git log```, ```git merge```
+For a list additional commands you should learn check out this [GitHub Git Command Cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf).
 
-## 📚 Git & Github Resources
-- [GitHub Git Command Cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf): A cheatsheet of the most commonly used Git commands, published by GitHub.
+## 📚 Git & GitHub Resources
 - [GitHub Learning Lab](https://lab.github.com/): Learn GitHub and Git through guided projects.
 - [Getting Git Right](https://www.atlassian.com/git): Tutorials and guides for using Git.
 - [Learn Git Branching](https://learngitbranching.js.org/): An interactive tool to help you visualize how branching in Git works.
