@@ -127,8 +127,8 @@ Further Reading:
 
 ***
 
-### Git Push
 ![Screenshot of terminal running git push command](imgs/git-push.png)
+### Git Push
 ```git push``` sends code from your local branch to your remote branch. In this case, it is sending to GitHub.
 
 Further Reading:
