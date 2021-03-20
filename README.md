@@ -159,7 +159,7 @@ Alright, so you now know the basics of using Git and Github. What's next? To bec
 ## Projects to Contribute to
 ![Logos for companies that have open source projects](imgs/contribute-header.png)
 
-- [EmojiScreen](https://github.com/brittanyrw/emojiscreen) - A listing of movies, TV shows and musicals depicted through emojis (created by me!)
+- [EmojiScreen](https://github.com/brittanyrw/emojiscreen) - A listing of movies, TV shows and musicals depicted through emojis (created by me!).
 - [Forem/Dev.to](https://docs.forem.com/contributing/forem/) - Open source software for building communities
 - [Gatsby](https://www.gatsbyjs.com/contributing/) - Build blazing fast, modern apps and websites with React
 - [Netlify CMS](https://github.com/netlify/netlify-cms/blob/master/CONTRIBUTING.md) - A Git-based CMS for Static Site Generators
