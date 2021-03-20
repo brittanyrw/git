@@ -57,7 +57,7 @@ Below are instructions for how to set up Git and GitHub on your computer.
 
 ## 👩🏾‍💻 Command Line
 ![Screenshots of the command line](imgs/command-line-header.png)
-The command line is a text interface that you can use to run commands on your computer. Mac (Terminal) and Windows (Command Prompt) computers both come with default command lines. You can find and open these command lines by searching for the name (Terminal or Command Prompt) on your computer. 
+The command line is a text interface that you can use to run commands on your computer. Mac (Terminal) and Windows (Powershell) computers both come with default command lines. You can find and open these command lines by searching for the name (Terminal or Powershell) on your computer. 
 
 ### Alternative Command Lines
 * [iTerm2 (Mac)](https://iterm2.com/): Powerful terminal replacement for macOS
