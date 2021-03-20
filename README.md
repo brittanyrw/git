@@ -105,6 +105,18 @@ Further Reading:
   
 ***
 
+![Screenshot of terminal running git add command](imgs/git-branch.png)
+### Git Branch
+```git branch``` creates a new branch, or an parallel snapshot of your project that is seperate from the ```main``` branch. 
+* Branches are created so that individual engineers can work on the same codebase without impacting the main project code. 
+* Create a new branch with ```git branch branch-name-goes-here``` and switch to that branch using ```git checkout branch-name-goes-here```
+* To create a new branch and switch to that branch with one command use ```git checkout -b branch-name-goes-here```
+
+Further Reading:
+  * [BitBucket Git Branch Guide](https://www.atlassian.com/git/tutorials/using-branches)
+  
+***
+
 ![Screenshot of terminal running git add command](imgs/git-add.png)
 ### Git Add
 ```git add``` tells Git which files to add to the staging area before comitting.
@@ -159,7 +171,7 @@ Alright, so you now know the basics of using Git and Github. What's next? To bec
 ## Projects to Contribute to
 ![Logos for companies that have open source projects](imgs/contribute-header.png)
 
-- [EmojiScreen](https://github.com/brittanyrw/emojiscreen) - A listing of movies, TV shows and musicals depicted through emojis (created by me!).
+- [EmojiScreen](https://github.com/brittanyrw/emojiscreen) - A listing of movies, TV shows and musicals depicted through emojis (created by me!)
 - [Forem/Dev.to](https://docs.forem.com/contributing/forem/) - Open source software for building communities
 - [Gatsby](https://www.gatsbyjs.com/contributing/) - Build blazing fast, modern apps and websites with React
 - [Netlify CMS](https://github.com/netlify/netlify-cms/blob/master/CONTRIBUTING.md) - A Git-based CMS for Static Site Generators
