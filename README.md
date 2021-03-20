@@ -1,4 +1,4 @@
-# Intro to Git & Github
+# Intro to Git & Github - Presentation Here: https://github.com/brittanyrw/git/
 
 ![Intro to Git and Github Header](imgs/header.png)
 
@@ -12,15 +12,34 @@
 * 🥳 [Practice and Contribute](#practice-and-contribute)
 
 ## 👋🏾 Introduction
+This is supporting documentation for an Intro to Git & Github Workshop. You will learn about Git and Github, some of the most popular version control tools. We will cover the command line, commonly used Git commands, what open source is and how you can utilize Git and Github to manage your own projects and to collaborate with others. 
 
 ## 🤔 What is Git?
-
-<img src="imgs/git-logo.png" alt="Git Logo" width="200">
 <img src="imgs/hearding-cats.gif" alt="Gif of someone attempting to heard a bunch of kittens and failing" width="500">
 
-## 🧐 What is Github?
+Git is a version control system used to track and manage changes made to files. This tool allows teams to work more efficently together and avoid mistakes that might arise from conflicting code, bugs and so on. Git helps engineers track:
+* **What** has been changed
+* **Who** has changed it
+* **When** it was changed 
+* **Revert** to previous versions if a bug is found
 
+* Further Reading:
+  * [What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+  * [Github Git Guide](https://github.com/git-guides/)
+
+## 🧐 What is Github?
 ![Github Octocats](imgs/github-header.png)
+
+Github is a website where you can host code, collaborate with others and utilize Git version control tools. **Note:** Very important to remember that ```Git``` and ```Github``` are two different things. Some features of Github include: 
+* Collaboration (open-source)
+* Storage 
+* Hosting
+* Management 
+
+Alternatives: [Gitlab](https://about.gitlab.com/) & [Bitbucket](https://bitbucket.org/product)
+
+* Further Reading:
+  * [Github Git Guide](https://github.com/git-guides/)
 
 ## 🛠 Git and Github Setup
 Below are instructions for how to set up Git and Github on your computer.
