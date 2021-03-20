@@ -51,37 +51,48 @@ The command line is a text interface that you can use to run commands on your co
 
 ## 🦄 Git Commands
 ![Screenshots of the command line](imgs/git-command-header.png)
+We're going to briefly go over just a few of the most commonly used Git commands below. These will get you started using Git but there are many more commands you can utilize. Check out the resources after this section for more information.
 
+*** 
+
+![Screenshot of terminal running git init command](imgs/git-init.png)
 ### Git Init
-![Github Octocats](imgs/git-init.png)
 Initializes Git
 Tells Git to start tracking your files
 Run inside of a directory (folder)
 
+***
+
+![Screenshot of terminal running git status command](imgs/git-status.png)
 ### Git Status
-![Github Octocats](imgs/git-status.png)
 Outputs the status of your files
 What branch you are on
 Which files are being tracked
 Which files have been altered
 Local branch vs remote branch
 
+***
+
+![Screenshot of terminal running git add command](imgs/git-add.png)
 ### Git Add
-![Github Octocats](imgs/git-add.png)
 Tells Git which files to add to the staging area
 Can add all files
 Can add individual files
 
+***
+
+![Screenshot of terminal running git commit command](imgs/git-commit.png)
 ### Git Commit
-![Github Octocats](imgs/git-commit.png)
 ```git commit``` saves a snapshot of your entire project. You run the command with the `-m` flag to include a message. This message will typically explain what was changed in the code. Here is an example of what running ```git commit``` could look like: ```git commit -m “your commit message here”```. You should commit often!
 * Further Reading:
   * [BitBucket Git Commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)
   * [GitHub Git Commit Guide](https://github.com/git-guides/git-commit)
   * [Official Git Documentation](https://git-scm.com/docs/git-commit)
 
+***
+
 ### Git Push
-![Github Octocats](imgs/git-push.png)
+![Screenshot of terminal running git push command](imgs/git-push.png)
 Sends code from your local branch to your remote branch. In this case, it is sending to Github.
 
 ## Additional Commands
