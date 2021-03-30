@@ -12,7 +12,7 @@
 * 🥳 [Practice and Contribute](#practice-and-contribute)
 
 ## 👋🏾 Introduction
-This is supporting documentation for an Intro to Git & GitHub Workshop. You will learn about Git and GitHub, some of the most popular version control tools. We will cover the command line, commonly used Git commands, what open source is and how you can utilize Git and GitHub to manage your own projects and to collaborate with others. 
+This is supporting documentation for a 25 minute (‼️) Intro to Git & GitHub Workshop. In this verry quick overview, you will learn about Git and GitHub, some of the most popular version control tools. We will cover the command line, commonly used Git commands, what open source is and how you can utilize Git and GitHub to manage your own projects and to collaborate with others. 
 
 ## 🤔 What is Git?
 <img src="imgs/hearding-cats.gif" alt="Gif of someone attempting to heard a bunch of kittens and failing" width="500">
@@ -161,6 +161,9 @@ For a list additional commands you should learn check out this [GitHub Git Comma
 ## 🥳 Practice and Contribute
 Alright, so you now know the basics of using Git and Github. What's next? To become more comfortable using the command line, Git and Github you're going to need to practice. Below is a list of a few suggestions for how to practice on your own and a list of open source projects that have extensive contribution documentation that makes it easier for beginners to contribute. 
 
+## 📺 EmojiScreen
+[EmojiScreen](https://github.com/brittanyrw/emojiscreen) is a project I made a couple of years ago to help beginners make their first pull requests on GitHub. The website is a listing of movies, TV shows and musicals depicted through emojis. To contribute, you can add an ```Emoji Card``` that includes five emojis related to the show or movie you want to add so that other people can guess. For more advanced learners, you an also try your hand at adding new features or improving the existing code. Head over to the [EmojiScreen](https://github.com/brittanyrw/emojiscreen) repository where there are extremely detailed instructions that walk yoiu step by step through how to contribute! 
+
 ## How to Practice
 ![Gif of Blossom from Powerpuff Girls flying](imgs/blossom-go.gif)
 - Personal Projects
@@ -168,10 +171,9 @@ Alright, so you now know the basics of using Git and Github. What's next? To bec
 - Coding Challenges like [Codepen Challenges](https://codepen.io/challenges)
 - Follow people on Github 👀
 
-## Projects to Contribute to
+## Other Projects to Contribute to
 ![Logos for companies that have open source projects](imgs/contribute-header.png)
 
-- [EmojiScreen](https://github.com/brittanyrw/emojiscreen) - A listing of movies, TV shows and musicals depicted through emojis (created by me!)
 - [Forem/Dev.to](https://docs.forem.com/contributing/forem/) - Open source software for building communities
 - [Gatsby](https://www.gatsbyjs.com/contributing/) - Build blazing fast, modern apps and websites with React
 - [Netlify CMS](https://github.com/netlify/netlify-cms/blob/master/CONTRIBUTING.md) - A Git-based CMS for Static Site Generators
