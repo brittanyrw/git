@@ -1,4 +1,4 @@
-# Intro to Git & GitHub - Presentation Here: https://github.com/brittanyrw/git/
+# Intro to Git & GitHub - Presentation
 
 ![Intro to Git and GitHub Header](imgs/header.png)
 
