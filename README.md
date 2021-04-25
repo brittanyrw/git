@@ -2,15 +2,6 @@
 
 ![Intro to Git and GitHub Header](imgs/header.png)
 
-## Table of Contents
-* 👋🏾 [Introduction](#introduction)
-* 🤔 [What is Git?](#what-is-git)
-* 🧐 [What is GitHub?](#what-is-github)
-* 🛠 [Git and GitHub Setup](#git-and-github-setup)
-* 👩🏾‍💻 [Command Line](#command-line)
-* 🦄 [Git Commands](#git-commands)
-* 🥳 [Practice and Contribute](#practice-and-contribute)
-
 ## 👋🏾 Introduction
 This is supporting documentation for a 25 minute (‼️) Intro to Git & GitHub Workshop. In this verry quick overview, you will learn about Git and GitHub, some of the most popular version control tools. We will cover the command line, commonly used Git commands, what open source is and how you can utilize Git and GitHub to manage your own projects and to collaborate with others. 
 
